@@ -1,4 +1,4 @@
 Curated CSS
 ======
 
- * [CSS rendering performances](perf) 
+ * [CSS rendering performances](perf-rendering.md) 
