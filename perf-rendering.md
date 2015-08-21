@@ -6,7 +6,7 @@ CSS rendering
 
 What actually happens in the browser? [Article][gosquared-article]
 
-> Explanation and code demos to understand the *re-layouts*, *re-paints*, *layers*, *composition*, CPU and GPU.
+> Explanation and demos to understand the **re-layouts, re-paints, layers, composition, CPU and GPU** terms.
 
 > There’s no silver bullet for render performance, it depends on your use-case.
 Once you understand the various steps which the browser has to do to get pixels onto the screen, it’s a good beginning.
