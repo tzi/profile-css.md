@@ -5,28 +5,39 @@ The purpose is to get fluid interfaces, for example fast scrolls or **smooth ani
 Todo that we need to get the browser rendering the page at **60fps everywhere**.
 
 
+## Is it important?
+
+ * Adam Morse, [Does CSS Performance Matter? (Article)][mrmrs-caring]. Article published December 18, 2015.
+ 
+> Yes it does. 
+ 
+[mrmrs-caring]: http://xn--h4hg.ws/2014/12/18/caring/
+
+
 ## What actually happens in the browser? 
 
 There’s no universal solution to improve render performance, it depends on your use-case.
 The best beginning is to understand the steps which the browser has to do to get pixels onto the screen.
 
- * [Optimising for 60fps everywhere (Article)][gosquared-article]
+ * JT (GoSquared), [Optimising for 60fps everywhere (Article)][gosquared-article]. Article published July 10, 2014.
 
-> GoSquared wrote presentations and code examples to explain the concepts of re-layouts, re-paints, layers, composition, CPU and GPU.
+> Presentations and code examples to explain the concepts of re-layouts, re-paints, layers, composition, CPU and GPU.
 
 [gosquared-article]: https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript
 
 
- * [CSS animations and transitions performance: looking inside the browser (Article)][adobe-animations-performance]
+ * Max Vujovic (Adobe), [CSS animations and transitions performance: looking inside the browser][adobe-animations-performance].
+ Article published March 18, 2014.
   
-> Adobe explains why it is cheaper for the browsers to animate a transformation than an element height.
+> Why it is cheaper for the browsers to animate a transformation than an element height.
 
 [adobe-animations-performance]: http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/
 
 
 ## Experience Feedback
 
- * [GitHub's CSS Performance (Slides)][github-slides] and [(Video)][github-video]
+ * Jon Rohan (GitHub), [GitHub's CSS Performance][github-slides]. Slide published December 5, 2012 on Speaker Deck.
+ * Jon Rohan (GitHub), [GitHub's CSS Performance][github-video]. Video published December 5, 2012 on vimeo.
 
 > GitHub had some pages with *almost 30s of style recalculation (slide 19)*,
 because of particular conditions like *50k DOM elements (slide 63)*.
