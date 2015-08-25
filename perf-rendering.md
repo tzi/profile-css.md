@@ -50,5 +50,15 @@ So you have to have rules and tools to monitor your CSS, like the number of sele
 [github-video]: https://vimeo.com/54990931
 
 
+ * Chris Ruppel (Four Kitchens), [Fix scrolling performance with CSS will-change property][fourkitchens-scrolling]. Article published July 1, 2015.
+
+> Four Kitchens’ website had a big fixed background image that cause scrolling performance issues.
+This article show how they diagnose it and fixed it.
+
+> It is a typical use case that is certainly present in one of your projects.
+
+[fourkitchens-scrolling]: https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property
+
+
 
 
