@@ -1,6 +1,6 @@
-# CSS rendering performances
+# CSS rendering performance
 
-CSS rendering performances are the efficiency to compute styles after everything is loaded.
+CSS rendering performance is the efficiency to compute styles after everything is loaded.
 The purpose is to get fluid interfaces, for example fast scrolls or **smooth animations**.
 Todo that we need to get the browser rendering the page at **60fps everywhere**.
 
@@ -15,6 +15,13 @@ The best beginning is to understand the steps which the browser has to do to get
 > GoSquared wrote presentations and code examples to explain the concepts of **re-layouts, re-paints, layers, composition, CPU and GPU**.
 
 [gosquared-article]: https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript
+
+
+ * [CSS animations and transitions performance: looking inside the browser][adobe-animations-performance]
+  
+> Adobe explains why it is cheaper for the browsers to animate a transformation than an element height.
+
+[adobe-animations-performance]: http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/
 
 
 ## Experience Feedback
