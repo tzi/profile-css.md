@@ -12,7 +12,7 @@ The best beginning is to understand the steps which the browser has to do to get
 
  * [Optimising for 60fps everywhere (Article)][gosquared-article]
 
-> GoSquared wrote presentations and code examples to explain the concepts of **re-layouts, re-paints, layers, composition, CPU and GPU**.
+> GoSquared wrote presentations and code examples to explain the concepts of re-layouts, re-paints, layers, composition, CPU and GPU.
 
 [gosquared-article]: https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript
 
@@ -26,7 +26,7 @@ The best beginning is to understand the steps which the browser has to do to get
 
 ## Experience Feedback
 
- * [GitHub's CSS Performance (Slides)][github-slides] or [(Video)][github-video]
+ * [GitHub's CSS Performance (Slides)][github-slides] and [(Video)][github-video]
 
 > GitHub had some pages with *almost 30s of style recalculation (slide 19)*,
 because of particular conditions like *50k DOM elements (slide 63)*.
