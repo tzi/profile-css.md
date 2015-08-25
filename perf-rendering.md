@@ -17,7 +17,7 @@ The best beginning is to understand the steps which the browser has to do to get
 [gosquared-article]: https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript
 
 
- * [CSS animations and transitions performance: looking inside the browser][adobe-animations-performance]
+ * [CSS animations and transitions performance: looking inside the browser (Article)][adobe-animations-performance]
   
 > Adobe explains why it is cheaper for the browsers to animate a transformation than an element height.
 
