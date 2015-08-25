@@ -19,7 +19,7 @@ The best beginning is to understand the steps which the browser has to do to get
 
 ## Experience Feedback
 
- * [GitHub's CSS Performance (Article)][github-slides] or [(Video)][github-video]
+ * [GitHub's CSS Performance (Slides)][github-slides] or [(Video)][github-video]
 
 > GitHub had some pages with [almost 30s of style recalculation][github-slow],
 because of particular conditions like [50k DOM elements](github-context).
