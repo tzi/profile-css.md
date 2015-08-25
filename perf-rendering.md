@@ -12,7 +12,7 @@ The best beginning is to understand the steps which the browser has to do to get
 
  * [Optimising for 60fps everywhere (Article)][gosquared-article]
 
-> GoSquared wrote presentation & unit demo to explain the concepts of **re-layouts, re-paints, layers, composition, CPU and GPU**.
+> GoSquared wrote presentations and code examples to explain the concepts of **re-layouts, re-paints, layers, composition, CPU and GPU**.
 
 [gosquared-article]: https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript
 
