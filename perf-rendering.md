@@ -7,7 +7,7 @@ Todo that we need to get the browser rendering the page at **60fps everywhere**.
 
 ## Is it important?
 
- * Adam Morse, [Does CSS Performance Matter?][mrmrs-caring]. Article published December 18, 2015.
+ * Adam Morse, [Does CSS Performance Matter?][mrmrs-caring] Article published December 18, 2015.
  
 > Yes it does. 
  
