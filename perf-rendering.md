@@ -7,7 +7,7 @@ Todo that we need to get the browser rendering the page at **60fps everywhere**.
 
 ## Is it important?
 
- * Adam Morse, [Does CSS Performance Matter? (Article)][mrmrs-caring]. Article published December 18, 2015.
+ * Adam Morse, [Does CSS Performance Matter?][mrmrs-caring]. Article published December 18, 2015.
  
 > Yes it does. 
  
@@ -19,7 +19,7 @@ Todo that we need to get the browser rendering the page at **60fps everywhere**.
 There’s no universal solution to improve render performance, it depends on your use-case.
 The best beginning is to understand the steps which the browser has to do to get pixels onto the screen.
 
- * JT (GoSquared), [Optimising for 60fps everywhere (Article)][gosquared-article]. Article published July 10, 2014.
+ * JT (GoSquared), [Optimising for 60fps everywhere][gosquared-article]. Article published July 10, 2014.
 
 > Presentations and code examples to explain the concepts of re-layouts, re-paints, layers, composition, CPU and GPU.
 
