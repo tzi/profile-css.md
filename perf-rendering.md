@@ -10,7 +10,7 @@ Todo that we need to get the browser rendering the page at **60fps everywhere**.
 There’s no universal solution to improve render performance, it depends on your use-case.
 The best beginning is to understand the steps which the browser has to do to get pixels onto the screen.
 
- * Optimising for 60fps everywhere, [Article][gosquared-article]
+ * [Optimising for 60fps everywhere (Article)][gosquared-article]
 
 > GoSquared wrote presentation & unit demo to explain the concepts of **re-layouts, re-paints, layers, composition, CPU and GPU**.
 
@@ -19,7 +19,7 @@ The best beginning is to understand the steps which the browser has to do to get
 
 ## Experience Feedback
 
- * GitHub's CSS Performance [Slides][github-slides] - [Video][github-video]
+ * [GitHub's CSS Performance (Article)][github-slides] or [(Video)][github-video]
 
 > GitHub had some pages with [almost 30s of style recalculation][github-slow],
 because of particular conditions like [50k DOM elements](github-context).
