@@ -1,4 +1,4 @@
-# CSS rendering performance
+# CSS rendering performance in 10 links
 
 CSS rendering performance is the efficiency to compute styles after everything is loaded.
 The purpose is to get fluid interfaces, for example fast scrolls or **smooth animations**.
