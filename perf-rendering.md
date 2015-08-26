@@ -48,7 +48,8 @@ The best beginning is to understand the steps which the browser has to do to get
  * [CSS Triggers][csstriggers] Website.
  * Paul Lewis, [CSS Triggers] [csstrigers-post]. Article updated July 26, 2014.
  
-> I wanted to create a tool that would allow developers to more readily understand the ramifications of changing their styles.
+> He wanted to create a tool that would allow developers to more readily understand the ramifications of changing their styles.
+And now it is the most important tool to have when dealing with CSS rendering performance issues.
 
 [csstriggers]: http://csstriggers.com/
 [csstrigers-post]: https://aerotwist.com/blog/css-triggers/
@@ -78,6 +79,13 @@ This article show how they diagnose it and fixed it.
 > It is a typical use case that is certainly present in one of your projects.
 
 [fourkitchens-scrolling]: https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property
+
+
+ * Ross Allen (AirBnB), [CSS box-shadow Can Slow Down Scrolling][airbnb-box-shadow]. Article published November 11, 2011.
+
+> An example from the AirBnB dashboard, with real metrics, show that blur-radius cost processing power.
+
+[airbnb-box-shadow]: http://nerds.airbnb.com/box-shadows-are-expensive-to-paint/
 
 
 ## Not referenced links
