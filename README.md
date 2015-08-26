@@ -8,7 +8,7 @@ Structured lists of CSS links that you want to explore:
 ## Purpose
 
 As I love the `awesome` initiatives, I will not visit hundreds of links to learn about a specific subject.
-So I give a try with another format, named `profile`, that to promote (and store) my best links.
+So I give a try to another format, named `profile`, to promote (and store) my best links.
 
  * A theme description
  * Approximately 10 links structured by sub-themes
