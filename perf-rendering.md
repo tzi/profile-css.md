@@ -43,6 +43,31 @@ The best beginning is to understand the steps which the browser has to do to get
 [stevesouders-selector]: http://www.stevesouders.com/blog/2009/03/10/performance-impact-of-css-selectors/
 
 
+## Tools
+
+ * [CSS Triggers][csstriggers] Website.
+ * Paul Lewis, [CSS Triggers] [csstrigers-post]. Article updated July 26, 2014.
+ 
+> I wanted to create a tool that would allow developers to more readily understand the ramifications of changing their styles.
+
+[csstriggers]: http://csstriggers.com/
+[csstrigers-post]: https://aerotwist.com/blog/css-triggers/
+
+
+## Ideas
+
+ * Ryan Seddon, [60fps scrolling using pointer-events: none][cssninja-scrolling-1]. Article published November 25th, 2013.
+ * Ryan Seddon, [A follow up to obtaining 60fps scrolling performance][cssninja-scrolling-2]. Article published January 13th, 2014.
+
+> The idea was to disable any hover effects when scrolling, by applying a `pointer-events: none` on the body.
+
+> But by adding a class to the body we force the browser to do a style recalculation.
+  It is costly on the body as it has to traverse the whole tree to make sure this top level class doesn’t effect any children.
+
+[cssninja-scrolling-1]: http://www.thecssninja.com/javascript/pointer-events-60fps
+[cssninja-scrolling-2]: http://www.thecssninja.com/javascript/follow-up-60fps-scroll
+
+
 ## Experience Feedback
 
  * Jon Rohan (GitHub), [GitHub's CSS Performance][github-slides]. Slide published December 5, 2012 on Speaker Deck.
@@ -71,5 +96,13 @@ This article show how they diagnose it and fixed it.
 
 ## Not referenced links
 
+ * http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/
+ * http://paulbakaus.com/tutorials/performance/the-illusion-of-motion/
  * http://benfrain.com/browser-representatives-on-css-performance/
  * http://meiert.com/en/blog/20090312/performance-of-css-selectors/
+ * http://www.smashingmagazine.com/2012/06/play-with-hardware-accelerated-css/
+ * http://calendar.perfplanet.com/2014/hardware-accelerated-css-the-nice-vs-the-naughty/
+ * https://github.com/axemclion/browser-perf
+ * http://gent.ilcore.com/2011/03/how-not-to-trigger-layout-in-webkit.html
+ * https://github.com/wilsonpage/fastdom
+ * http://www.kellegous.com/j/2013/01/26/layout-performance/
