@@ -34,6 +34,15 @@ The best beginning is to understand the steps which the browser has to do to get
 [adobe-animations-performance]: http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/
 
 
+## CSS selectors performance
+
+ * Steve Souders, [Performance Impact of CSS Selectors][stevesouders-selector]. Article published March 10, 2009.
+
+> The possible performance gains from optimizing CSS selectors will be small, and are not worth the costs
+
+[stevesouders-selector]: http://www.stevesouders.com/blog/2009/03/10/performance-impact-of-css-selectors/
+
+
 ## Experience Feedback
 
  * Jon Rohan (GitHub), [GitHub's CSS Performance][github-slides]. Slide published December 5, 2012 on Speaker Deck.
@@ -60,5 +69,7 @@ This article show how they diagnose it and fixed it.
 [fourkitchens-scrolling]: https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property
 
 
+## Not referenced links
 
-
+ * http://benfrain.com/browser-representatives-on-css-performance/
+ * http://meiert.com/en/blog/20090312/performance-of-css-selectors/
