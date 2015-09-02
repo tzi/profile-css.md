@@ -2,7 +2,7 @@
 
 CSS rendering performance is the efficiency to compute styles after everything is loaded.
 The purpose is to get fluid interfaces, for example fast scrolls or **smooth animations**.
-Todo that we need to get the browser rendering the page at **60fps everywhere**.
+To do that we need to get the browser rendering the page at **60fps everywhere**.
 
 
 ## Is it important?
@@ -45,7 +45,7 @@ The best beginning is to understand the steps which the browser has to do to get
 
 ## Tools
 
- * [CSS Triggers][csstriggers] Website.
+ * [CSS Triggers][csstriggers]. Website.
  * Paul Lewis, [CSS Triggers] [csstrigers-post]. Article updated July 26, 2014.
  
 > He wanted to create a tool that would allow developers to more readily understand the ramifications of changing their styles.
@@ -64,7 +64,7 @@ And now it is the most important tool to have when dealing with CSS rendering pe
 because of particular conditions like *50k DOM elements (slide 63)*.
 In this hard context, they had to drastically simplify their HTML and CSS.
 
-> One of the best point is that *less than half of the people that touch the CSS (slide 101)* are *CSS developers (slide 102)*.
+> The most interesting point is that *less than half of the people that touch the CSS (slide 101)* are *CSS developers (slide 102)*.
 So you have to have rules and tools to monitor your CSS, like the number of selectors. 
 
 [github-slides]: https://speakerdeck.com/jonrohan/githubs-css-performance
