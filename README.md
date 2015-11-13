@@ -2,7 +2,7 @@
 
 Structured lists of CSS links that you want to explore:
 
- * [CSS rendering performances](perf-rendering.md) 
+ * [CSS rendering performances](performances/rendering.md) 
 
 
 ## Purpose
