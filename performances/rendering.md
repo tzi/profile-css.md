@@ -1,11 +1,11 @@
-# CSS rendering performance in 10 links
+# CSS rendering performance in 5 points
 
 CSS rendering performance is the efficiency to compute styles after everything is loaded.
 The purpose is to get fluid interfaces, for example **fast scrolls or smooth animations**.
 To do that we need to get the browser rendering the page at **60fps everywhere**.
 
 
-## Is it important?
+## 1. Is it important?
 
  * Adam Morse, [Does CSS Performance Matter?][mrmrs-caring] Article published December 18, 2014.
  
@@ -14,7 +14,7 @@ To do that we need to get the browser rendering the page at **60fps everywhere**
 [mrmrs-caring]: http://mrmrs.io/writing/2014/12/18/caring/
 
 
-## What actually happens in the browser? 
+## 2. What actually happens in the browser? 
 
 There’s no universal solution to improve render performance, it depends on your use-case.
 The best beginning is to understand the steps which the browser has to do to get pixels onto the screen.
@@ -34,7 +34,7 @@ The best beginning is to understand the steps which the browser has to do to get
 [adobe-animations-performance]: http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/
 
 
-## CSS selectors performance
+## 3. CSS selectors performance
 
  * Steve Souders, [Performance Impact of CSS Selectors][stevesouders-selector]. Article published March 10, 2009.
 
@@ -43,7 +43,7 @@ The best beginning is to understand the steps which the browser has to do to get
 [stevesouders-selector]: http://www.stevesouders.com/blog/2009/03/10/performance-impact-of-css-selectors/
 
 
-## Tools
+## 4. Tools
 
  * [CSS Triggers][csstriggers]. Website.
  * Paul Lewis, [CSS Triggers] [csstrigers-post]. Article updated July 26, 2014.
@@ -55,7 +55,7 @@ And now it is the most important tool to have when dealing with CSS rendering pe
 [csstrigers-post]: https://aerotwist.com/blog/css-triggers/
 
 
-## Experience Feedback
+## 5. Experience Feedback
 
  * Jon Rohan (GitHub), [GitHub's CSS Performance][github-slides]. Slide published December 5, 2012 on Speaker Deck.
  * Jon Rohan (GitHub), [GitHub's CSS Performance][github-video]. Video published December 5, 2012 on vimeo.
@@ -89,6 +89,8 @@ This article show how they diagnose it and fixed it.
 
 
 ## Not referenced links
+
+All this links talk about CSS rendering performances, but there are either out of date or redundant with the previous links:
 
  * http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
  * http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/
