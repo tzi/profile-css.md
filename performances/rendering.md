@@ -11,7 +11,7 @@ To do that we need to get the browser rendering the page at **60fps everywhere**
  
 > Yes it does. 
  
-[mrmrs-caring]: http://xn--h4hg.ws/2014/12/18/caring/
+[mrmrs-caring]: http://mrmrs.io/writing/2014/12/18/caring/
 
 
 ## What actually happens in the browser? 
