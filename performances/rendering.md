@@ -60,11 +60,11 @@ And now it is the most important tool to have when dealing with CSS rendering pe
  * Jon Rohan (GitHub), [GitHub's CSS Performance][github-slides]. Slide published December 5, 2012 on Speaker Deck.
  * Jon Rohan (GitHub), [GitHub's CSS Performance][github-video]. Video published December 5, 2012 on vimeo.
 
-> GitHub had some pages with *almost 30s of style recalculation (slide 19)*,
-because of particular conditions like *50k DOM elements (slide 63)*.
+> GitHub had some pages with *almost 30s of style recalculation ([slide 19](https://speakerdeck.com/jonrohan/githubs-css-performance?slide=19))*,
+because of particular conditions like *50k DOM elements ([slide 63](https://speakerdeck.com/jonrohan/githubs-css-performance?slide=63))*.
 In this hard context, they had to drastically simplify their HTML and CSS.
 
-> The most interesting point is that *less than half of the people that touch the CSS (slide 101)* are *CSS developers (slide 102)*.
+> The most interesting point is that *less than half of the people that touch the CSS ([slide 101](https://speakerdeck.com/jonrohan/githubs-css-performance?slide=101))* are *CSS developers (s[lide 102](https://speakerdeck.com/jonrohan/githubs-css-performance?slide=102))*.
 So you have to have rules and tools to monitor your CSS, like the number of selectors. 
 
 [github-slides]: https://speakerdeck.com/jonrohan/githubs-css-performance
